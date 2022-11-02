@@ -155,6 +155,18 @@ const Users = {
       instagram: "https://www.instagram.com/im_aadil_/?hl=en",
       linkedin: "https://www.linkedin.com/in/aadil-saudagar-7b467b1b1/",
       portfolio: "",
+    }
+  }
+      "Anusshkaha": {
+    name: "Anusshka Choudhary",
+    branch: "IT",
+    description: "Exploring | Learning",
+    links: {
+      github: "https://github.com/Anusshkaha",
+      instagram: "https://instagram.com/anusshka_chaudhary?igshid=1cnbzwatgvtlg",
+      linkedin: "https://www.linkedin.com/in/anusshka-chaudhary-129751221/",
+      portfolio: "",
+
     },
   },
 };
